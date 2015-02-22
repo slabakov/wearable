@@ -23,3 +23,5 @@ run_analysis()
 9. Finally, after fixing the first two column names, we output DF_new as a result file. 
 
 
+## Codebook
+See the file "Codebook.csv" for complete list of new variables used in the script.  
